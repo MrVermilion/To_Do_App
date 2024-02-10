@@ -1,6 +1,6 @@
-# listadetarefas
+# To_Do_App
 
-A new Flutter project.
+To do list: organize your daily tasks with ease. (organize suas tarefas diárias com facilidade)
 
 ## Getting Started
 
